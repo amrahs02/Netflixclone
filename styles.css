@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    position: relative;
+    padding: 0;
+    color: rgb(171, 171, 171);
+    font-family: 'Helvetica',system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', sans-serif;
+}
+.main{
+    position: relative;
+}
+.main2{
+    position: relative;
+}
+.signintext{
+    text-align: left;
+    position: relative;
+    color: white;
+    width: 60%;
+    left: 90px;
+    font-size: 30px;
+}
+.background{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+.login {
+    position: absolute;
+    top: 100px;
+    left: 480px;
+    width: 35%;
+    padding-bottom: 120px;
+    padding-top: 20px;
+    text-align: center;
+    /* align-items: center; */
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    opacity: 90%;
+
+}
+label{
+    word-spacing: 0px;
+}
+.word{
+    /* word-spacing: 20px; */
+    word-wrap: 20px;
+    padding-left: 60px;
+}
+.box{
+    padding: 14px;
+    background-color: #454545;
+    color: rgb(197, 197, 197);
+    margin: 5px;
+    width: 60%;
+    border: none;
+    border-radius: 3px;
+
+    
+}
+h4{
+    width: 75%;
+}
+.button{
+    margin: 20px;
+    border: none;
+    background-color: #E50914;
+    color: white;
+    padding: 17px;
+    width: 65.6%;
+    border-radius: 3px;
+}
+.button b{
+    font-size: 15px;
+}
+.under:hover{
+    text-decoration: underline;
+}
+.signuptext{
+    color: white;
+}
+.logoimg{
+    position: absolute;
+    width: 20%;
+    top: 100px;
+}
+.learnmore{
+    color: #0071EB;
+}
